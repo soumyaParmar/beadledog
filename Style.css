@@ -1,0 +1,14 @@
+.colored-box {
+    display: inline-block;
+    padding: 10px;
+    background-color: #ffc107;
+    border: 3px solid #ffa000;
+    border-radius: 5px;
+  }
+  .colored-box2 {
+    display: inline-block;
+    padding: 10px;
+    background-color: #07d2ff;
+    border: 3px solid #00ffee;
+    border-radius: 5px;
+  }
